@@ -1,2 +1,18 @@
 import time
 
+print ("   Terceiro Capitulo")
+time.sleep(0.5)
+print("No dia seguinte, o quarteto conspiracionista estava reunido, Jake, Troup, Komissor e Phil. Conversa vai, conversa vem até que um bêbado qualquer (nome dele não vai ser importante pra história) disse que no rancho dos Smallwood a plantação deles foi queimada e foi feito um desenho redondo. ")
+time.sleep(6)
+print("Phil como estava trabalhando, falou para os três irem averiguar. ")
+time.sleep(1)
+print("Chegando lá, se deparam com não apenas a plantação com uma forma estranha mas a casa estava pegando fogo, e no quintal estava Smallwood sem vida com o peito queimado assim como o sr. Greyson e sua mulher ao lado com meio corpo queimado em seus últimos segundos de vida disse o seguinte “é uma criatu..ra diferen....te, ele tem uns 3 meee....troos, tem a cor meio rooxa e dispaa....”")
+time.sleep(8)
+print("Essa foram as últimas palavras da senhora Smallwood. A dúvida estava instaurada na cabeça deles, Jake estava passando mal nesse momento e vomitando até as tripas e falando “cacete eles foram dessa pra uma mió, mas oia o corpo deles”.")
+time.sleep(4)
+print("Minutos depois, conversando com o xerife, o mesmo disse que achava que era obra da gangue do Cabrone, devido a serem cruéis com quem não lhe “pagassem” (Cabrone era o que conhecemos hoje por, agiota) e até porque, o mesmo estava na cidade.")
+time.sleep(6)
+print("O trio foi mais que de pressa de encontro a Cabrone e seus parceiros de gangue que estava em um bar de qualidade duvidosa da cidade.")
+time.sleep(2)
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+time.sleep(1)
