@@ -1,7 +1,8 @@
 import time
+import sys
 
 print("|========================================|")
-print("|            Primeiro Capitulo             |")
+print("|            Primeiro Capitulo           |")
 print("|========================================|\n")
 time.sleep(0.5)
 print ("O ano é 1905, em Nockville. Uma cidade pacata desde o fim da época do ouro, certo dia, um dos seus moradores, o sr. Grayson foi até a delegacia reportar que viu um objeto flutuante por volta de sua casa. O xerife deu risada e falou para ele se retirar e indicou ele ir ao médico. Jake Bag que tinha uma mente avoada foi atrás de Grayson para mais detalhes de sua história. Ah, o dia? 20 de janeiro.")
@@ -145,7 +146,6 @@ else:
     
 time.sleep(2)
 print ('---------------------------------------------------------------------------------------------------------------------------------------------------')
-import sys
 print("|========================================|")
 print("|            Terceiro Capitulo           |")
 print("|========================================|\n")
