@@ -1,6 +1,5 @@
 import time
 
-
 print ("   Primeiro Capitulo")
 time.sleep(0.5)
 print ("O ano é 1905, em Nockville. Uma cidade pacata desde o fim da época do ouro, certo dia, um dos seus moradores, o sr. Grayson foi até a delegacia reportar que viu um objeto flutuante por volta de sua casa. O xerife deu risada e falou para ele se retirar e indicou ele ir ao médico. Jake Bag que tinha uma mente avoada foi atrás de Grayson para mais detalhes de sua história. Ah, o dia? 20 de janeiro.")
@@ -11,26 +10,30 @@ print ('Jake Bag foi ao rancho de Troup, que dá uns 20 minutos de cavalo da cid
 time.sleep(2)
 print('“Trô, ucê num acredita, Grayson bateu as bota e essa história ta estranha, sabe o que é acho q é o pé grande, lembra q seu pai contava pa nói depoi da aula. Grayson falô que viu um bichão grandão sentadão numa bola e se movendo pelo cér tipo um pássaro. To cabreirão com isso"')
 time.sleep(3)
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+time.sleep(1)
 print('Diante disso, escolha o que Troup vai falar:')
 time.sleep(1)
 print ("1. Jake hahaha você já ta chapadão? \n2. Cara, vamos verificar isso, se você diz eu confio. \n3. Eu sempre desconfiei desse tal de pé grande.")
-esc = int(input('Escolha:'))
+time.sleep(2)
+esc = int(input('Escolha:  ' ))
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 if esc ==1:
+    time.sleep(1)
     print ('Jake: Um poquin só hehe')
     time.sleep(0.5)
 elif esc == 2:
+    time.sleep(1)
     print ('Jake: porisso confio minha vida em você meu amigo')
     time.sleep(0.5)
 elif esc == 3:
+    time.sleep(1)
     print('Jake: Num é, lembro q seu pai contava e eu nem dormia direito')
     time.sleep(0.5)
 else:
     print ('erro')
-
-
     
-    
-print ("------------------------------------------------------")
+print ("---------------------------------------------------------------------------------------------------------------------------------------------------")
 time.sleep(0.5)
 print ("    Segundo Capitulo")
 time.sleep(2)
@@ -60,11 +63,14 @@ print (' -Jay: Meu bar virou hospício em questão de minutos, eu vou embora dor
 time.sleep(2)
 print (' -Phil: Troup... Jake nunca mentiu a ti, você precisa acreditar, eu acredito pois já vi Deus e sempre vou crer no inacreditável. Caso isso for tudo uma ladainha, ele vai ter outro motivo pra sempre zoar ele hahaha.')
 time.sleep(2)
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+time.sleep(1)
 print ('Diante disso, qual a melhor ação de Troup: ')
 time.sleep(0.5)
 print('1. Ir atrás de Jake e conversar mais sobre essa história \n2. Ir dormir e esquecer essa loucura.')
 time.sleep(1)
-esc2 = int(input('Escolha:'))
+esc2 = int(input('Escolha:  '))
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 if esc2 ==1:
     time.sleep(1)
     print ('Troup chega a casa de Jake e bate repetidamente na porta, até escutar um “pode entra chefe”, quando abre a porta, Troup se depara com um antigo conhecido, Komissor. ')
@@ -89,9 +95,14 @@ if esc2 ==1:
     time.sleep(2)
     print('-Komissor: Amigo, eu já vi coisas e já fiz coisas que jamais imaginaria fazer ou ver. Então, a única coisa que não acredito é que alguém consegue ser mais veloz que eu, de resto, creio.')
     time.sleep(2)
+    print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+    time.sleep(1)
+    print('Escolha a ação de Troup:')
+    time.sleep(1)
     print('1.Então agora somos um trio. \n2Até tu ta louco meu amigo? \n3.Bora no Clarkson, temos muito o que conversar.')
     time.sleep(1)
-    esc3 = int(input('Escolha:'))
+    esc3 = int(input('Escolha:  '))
+    print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 elif esc2 == 2:
     time.sleep(1)
     print ('No dia seguinte, andando pelas ruas, vê Jake e Komissor entrando no saloon dos Clarkson. ')
@@ -116,16 +127,21 @@ elif esc2 == 2:
     time.sleep(2)
     print('-Komissor: Amigo, eu já vi coisas e já fiz coisas que jamais imaginaria fazer ou ver. Então, a única coisa que não acredito é que alguém consegue ser mais veloz que eu, de resto, creio.')
     time.sleep(2)
+    print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+    time.sleep(1)
+    print('Escolha a ação de Troup:')
+    time.sleep(1)
     print('1.Então agora somos um trio. \n2.Bora se reunir aqui hoje à noite, temos muito o que conversar.')
     time.sleep(1)
-    esc3 = int(input('Escolha:'))
+    esc3 = int(input('Escolha:  '))
+    print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 else:
     print ('erro')
 
 
     
 time.sleep(2)
-print ("------------------------------------------------------")
+print ('---------------------------------------------------------------------------------------------------------------------------------------------------')
 time.sleep(0.5)
 print ("    Terceiro Capitulo")
 
