@@ -1,7 +1,9 @@
 import time
 import sys
 
-print ("   Terceiro Capitulo")
+print("|========================================|")
+print("|            Terceiro Capitulo           |")
+print("|========================================|\n")
 time.sleep(0.5)
 print("No dia seguinte, o quarteto conspiracionista estava reunido, Jake, Troup, Komissor e Phil. Conversa vai, conversa vem até que um bêbado qualquer (nome dele não vai ser importante pra história) disse que no rancho dos Smallwood a plantação deles foi queimada e foi feito um desenho redondo. ")
 time.sleep(6)
@@ -53,7 +55,7 @@ if esc31 == 1 or esc31 == 2:
     time.sleep(1)
     print("- Cabrone: hahahaha o pessoal dessa cidade não sabe o que tu fizeste em Chuparosa e Gandito não é hahah")
     time.sleep(3)
-    print("- Komissor: vamos embora")
+    print("- Komissor: vamos embora\n")
     time.sleep(1)
 
     print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
@@ -76,7 +78,13 @@ elif esc31 == 3:
     print("Fim.")
     sys.exit()
 
-print ("   Quarto Capitulo")
+
+
+
+
+print("|========================================|")
+print("|            Quarto Capitulo             |")
+print("|========================================|\n")
 time.sleep(0.5)
 print("Uma semana, após isso. Troup e Komissor estavam andando por Nockville as 6 da manhã relembrando os bons (e maus) momentos que tiveram desbravando o Oeste e a costa mexicana. ")
 time.sleep(4)
@@ -88,14 +96,14 @@ print("Jay dizia repetidamente: “eu vi, eu vi, ele existe”. A dupla se assus
 time.sleep(4)
 print("O doutor disse que ele tinha perdido muito sangue, para deixar ele e mais tarde voltar.")
 time.sleep(2)
-print("Nisso, Troup foi ao bar conversar com Phil mas para sua surpresa Phil não estava lá. Resolveu ir ao rancho dos Clarkson. Chegando lá, o cenário era de destruição.")
+print("Nisso, Troup foi ao bar conversar com Phil mas para sua surpresa Phil não estava lá. Resolveu ir ao rancho dos Clarkson. Chegando lá, o cenário era de destruição.\n")
 time.sleep(4)
 
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 time.sleep(1)
 print('Escolha a ação de Troup:')
 time.sleep(1)
-print("1. Volte correndo a cidade e vá falar com Komissor. \n2.	Investigue o rancho.\n")
+print("1. Volte correndo a cidade e vá falar com Komissor. \n2. Investigue o rancho.\n")
 time.sleep(1)
 esc41 = int(input('Escolha:  '))
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
@@ -109,7 +117,7 @@ if esc41 == 1:
     time.sleep(2)
     print("Phil contou que viu o suposto bicho e que ele se assemelhava a um humano que disparava com a ponta dos dedos e tinha um serrote em seu cotovelo.")
     time.sleep(4)
-    print("Além de que o “grandão” era resistente a balas.")
+    print("Além de que o “grandão” era resistente a balas.\n")
     time.sleep(2)
 
     print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
@@ -143,7 +151,7 @@ if esc41 == 1:
 elif esc41 == 2:
     print("Troup vasculha a casa e não encontra nada, até se deparar com um barulho vindo do porão, quando ele abre a porta, se depara com Phil extremamente machucado e com um pedaço estranho roxo em sua mão. ")
     time.sleep(4)
-    print("Phil contou que viu o suposto bicho e que ele se assemelhava a um humano que disparava com a ponta dos dedos e tinha um serrote em seu cotovelo. Além de que o “grandão” era resistente a balas.")
+    print("Phil contou que viu o suposto bicho e que ele se assemelhava a um humano que disparava com a ponta dos dedos e tinha um serrote em seu cotovelo. Além de que o “grandão” era resistente a balas.\n")
     time.sleep(4)
 
     print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
