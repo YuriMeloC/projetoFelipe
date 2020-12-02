@@ -35,10 +35,13 @@ elif esc == 3:
     time.sleep(0.5)
 else:
     print ('erro')
+time.sleep(2)
     
-time.sleep(1)
+print("\n\n\n")
+
+time.sleep(2)
 print("|========================================|")
-print("|            Segundo Capitulo             |")
+print("|            Segundo Capitulo            |")
 print("|========================================|\n")
 time.sleep(2)
 print("Certo dia, na madrugada, Troup ainda com a história de Jake na cabeça estava no bar dos Clarkson, depois de uns goró e de ganhar uma graninha no Poker resolveu falar com dois caras de sua confiança, os donos do bar, Phil e Jay")
@@ -141,11 +144,11 @@ elif esc2 == 2:
     print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 else:
     print ('erro')
-
-
-    
 time.sleep(2)
-print ('---------------------------------------------------------------------------------------------------------------------------------------------------')
+
+print("\n\n\n")
+
+time.sleep(2)
 print("|========================================|")
 print("|            Terceiro Capitulo           |")
 print("|========================================|\n")
@@ -222,11 +225,13 @@ elif esc31 == 3:
     time.sleep(2)
     print("Fim.")
     sys.exit()
+else:
+    print("Erro")
+time.sleep(2)
 
+print("\n\n\n")
 
-
-
-
+time.sleep(2)
 print("|========================================|")
 print("|            Quarto Capitulo             |")
 print("|========================================|\n")
@@ -322,10 +327,13 @@ elif esc41 == 2:
         time.sleep(7)
         print("Chegando no médico, Komissor chama Troup de canto e conta que Jay havia morrido, devido ao incessante sangramento.")
         time.sleep(3)
+else:
+    print("Erro")
+time.sleep(2)
 
+print("\n\n\n")
 
-
-time.sleep(1)
+time.sleep(2)
 print("|========================================|")
 print("|            Quinto Capitulo             |")
 print("|========================================|\n")
@@ -402,10 +410,16 @@ elif esc51 == 2:
         print ('O monstro percebe os tiros vindo em sua direção e ataca Komissor e Troup. Jake consegue fugir, Komissor carrega Troup machucado até a cidade.')#-70 de saúde
     elif esc53 == 3:
         time.sleep(1)
-        print ('Abaixados no mato, observam o monstro pegar o Cabrone com a mão e literalmente dividi-lo em duas partes. Até Troup arregalou os olhos vendo o seu arqui-inimigo ser destroçado como se fosse algodão. Jake deve estar vomitando até agora, mas enfim, após assistirem isso, o trio mais que de pressa fugiu dali.')            
+        print ('Abaixados no mato, observam o monstro pegar o Cabrone com a mão e literalmente dividi-lo em duas partes. Até Troup arregalou os olhos vendo o seu arqui-inimigo ser destroçado como se fosse algodão. Jake deve estar vomitando até agora, mas enfim, após assistirem isso, o trio mais que de pressa fugiu dali.')   
+else:
+    print("Erro")         
+time.sleep(2)
+
+print("\n\n\n")
+
 time.sleep(2)
 print("|========================================|")
-print("|            Sexto Capitulo             |")
+print("|             Sexto Capitulo             |")
 print("|========================================|\n")
 time.sleep(1)
 print ("    Sexto Capitulo")
@@ -1118,7 +1132,7 @@ if esc60 == 2:
      
 time.sleep(2)
 print("|========================================|")
-print("|            FINAL             |")
+print("|                  FINAL                 |")
 print("|========================================|\n")
 time.sleep(1)
 print('No dia seguinte, o clima de felicidade era visível, mesmo com muito prejuízo e destruição, a aventura foi concluída. ')
@@ -1135,11 +1149,3 @@ time.sleep(4)
 print('+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+')
 time.sleep(2)
 print('Feito por: Bruno Queiroz e Yuri Camilo')
-                      
-
-                     
-
-            
-
-
-
